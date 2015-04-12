@@ -2,9 +2,9 @@
     windows+nginx+memcache+php+redis
 
 ## 安装步骤
-1. 下载windows-lnmp到电脑上；
+1. 下载wnmp到电脑上；
 2. 在D盘创建server文件夹；
-3. 将windows-lnmp中的文件拷贝至D:\server中；
+3. 将wnmp中的文件拷贝至D:\server中；
 4. 在server文件夹下安装nginx、php、redis、memcache；
 5. 分别配置nginx、php；
 
