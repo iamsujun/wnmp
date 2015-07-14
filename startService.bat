@@ -1,7 +1,7 @@
 @echo off
 
 rem "set path"
-SET base_path=d:\Server
+SET base_path=%cd%
 SET config_path=%base_path%\config
 
 SET nginx_path=%base_path%\nginx

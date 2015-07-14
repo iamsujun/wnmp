@@ -3,10 +3,8 @@
 
 ## 安装步骤
 1. 下载wnmp到电脑上；
-2. 在D盘创建server文件夹；
-3. 将wnmp中的文件拷贝至D:\server中；
-4. 在server文件夹下安装nginx、php、redis、memcache；
-5. 分别配置nginx、php；
+2. 在文件夹下安装nginx、php、redis、memcache；
+3. 分别配置nginx、php；
 
 ## 文件列表
 - README.md 说明文件
